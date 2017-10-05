@@ -1,4 +1,34 @@
 body{
-    background:url(images/1.jpg) no-repeat;
+    background:#fff url(images/1.jpg) no-repeat;
+}
+.top{
+    width: 100%;
+    height: 65px;
+    margin: 0 auto;
+}
+.top_logo li{
+    height: 65px;
+
+}
+.top li{
+    float: left;
+}
+.top_menu{
+
+}
+.top_menu li{
     
+
+}
+.top_menu a{
+    margin: 16px;
+    display: block;
+
+}
+.top_menu:hover{
+
+}
+.top_serach{
+    float: right;
+
 }
