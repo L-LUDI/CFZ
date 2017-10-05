@@ -23,12 +23,18 @@ body{
 .top_menu a{
     margin: 16px;
     display: block;
+    padding: 10px;
 
 }
 .top_menu:hover{
 
 }
 .top_serach{
-    float: right;
+    float: right; 
+    display: block;
+    padding: 10px;
 
+}
+.top_serach img{
+    width: 40px;
 }
