@@ -1,46 +1,23 @@
-body {
-    background: #fff url(images/1.jpg) no-repeat;
-}
+@import "base.css";
 
-.top {
-    width: 100%;
-    height: 65px;
-    margin: 0 auto;
-}
 
-.top_logo li {
-    height: 65px;
-}
 
-.top li {
+.container{
+    margin: 10px auto;
+    padding: 0px 0px;
     float: left;
 }
 
-.top_menu {
-    
+h1{
+    padding-top: 11px;
+    padding-bottom: 14px;
+    font-size: 23px;
+    color: #5A5656;
 }
-
-.top_menu li {}
-
-.top_menu a {
-    margin: 16px;
-    display: block;
-    padding: 10px;
+.title_image{
+    margin: 0 auto;
+    width: 100%;
 }
-
-.top_menu:hover {}
-
-.top_serach {
-    float: right;
-    display: block;
-    padding: 10px;
-}
-
-.top_serach input {
-    border-style: none;
-    border-bottom: 1px solid #d8d8d8
-}
-
-.top_serach img {
-    width: 40px;
+.title_image_border{
+    border-radius: 20px;
 }

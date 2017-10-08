@@ -1,0 +1,33 @@
+@import "base.css";
+.loginbox {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.loginbox ul li {
+    margin-bottom: 18px;
+}
+.loginbox h1{
+    font-size: 30px;
+    color: #726D6D;
+    line-height: 85px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.loginbox ul li a {
+    display: block;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #666;
+    background: #FFF;
+    color: #666;
+    text-decoration:none;
+}
+
+.loginbox ul li a:hover {
+    background: #666;
+    color: #FFF;
+}
