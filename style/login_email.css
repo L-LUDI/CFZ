@@ -1,0 +1,66 @@
+@import "base.css";
+.emailbox{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.emailbox ul li {
+    margin-bottom: 18px;
+}
+
+.emailbox h1{
+    font-size: 30px;
+    color: #726D6D;
+    line-height: 85px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.emailbox .form-group{
+    border-radius: 10px;
+    border: 1px solid #666;
+    margin-bottom: 18px;
+}
+
+.emailbox  input{
+    display: block;
+    border:0 none;
+    line-height:20px;
+    height: 22px;
+    width: 90%;
+    padding: 10px 16px;
+    border-radius: 10px;
+}
+
+
+.emailbox .a1{
+    display: block;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #666;
+    background: #FFF;
+    color: #4CAF50;
+    text-decoration:none;
+}
+.emailbox .a1:hover{
+    background: #4CAF50;
+    color: #FFF;
+}
+
+.emailbox .a2{
+    display: block;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #666;
+    background: #FFF;
+    color: #4B3535;
+    text-decoration:none;
+}
+.emailbox .a2:hover{
+    background: #4B3535;
+    color: #FFF;
+}
