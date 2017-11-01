@@ -4,14 +4,14 @@
 
 .container{
     margin: 10px auto;
-    padding: 0px 0px;
+    padding: 0px 0px 0px 125px;
     float: left;
 }
 
 h1{
     padding-top: 11px;
     padding-bottom: 14px;
-    font-size: 23px;
+    font-size: 28px;
     color: #5A5656;
 }
 .title_image{
@@ -21,8 +21,34 @@ h1{
 }
 .title_image_border{
     border-radius: 20px;
+    height: 550px;
 }
-.title_text p{
+.title_image a{
     text-decoration: none;
+}
+.titel_text{
+    padding-top: 8px;
+    padding-bottom: 14px;
+    line-height: 30px;
+    font-size: 18px;
+    color: rgb(58, 54, 54);
+}
+.titel_text .p2{
+    color: #6e6d6d;
+}
+
+.image_Image2{
+    /* position: fixed; */
+    height:36px;
+    width: 733.325px;
+    border-radius: 20px;
     
+}
+
+
+
+
+.title_image2_border{
+    border-radius: 20px;
+    height: 550px;
 }
