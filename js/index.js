@@ -2,4 +2,4 @@ setTimeout(function(a){
     //alert(a);
     location.href = "index02.html";
    // window.open("index02.html");
-},2000)
+},1500)
